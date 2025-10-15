@@ -21,6 +21,6 @@
 
 Установка:
 ```bash
-sudo pacman -S python-requests
+sudo pacman -S python-requests #для archlinux, для других дистрибутивов смотри свои пакетные менеджеры
 # или
 pip install requests
