@@ -45,8 +45,8 @@ pip install requests
 Склонируй репозиторий или скачай .zip:
 
 ```bash
-git clone https://github.com/username/osu-beatmap-downloader.git
-cd osu-beatmap-downloader
+git clone https://github.com/sheynor/Auto-osu-map-download-from-link.git
+cd Auto-osu-map-download-from-link
 ```
 
 Убедись, что у тебя есть Python и библиотека requests.
